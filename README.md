@@ -32,8 +32,10 @@ Follow next link for suggestions on [special events](events.md). There are even 
   * [Various routes in Almeria](https://www.dipalme.org/Servicios/cmsdipro/index.nsf/vista.xsp?p=Turismo&ref=rutas#)
 
 * Other
+  * A [sunrise](https://centrocomercio.sierranevada.es/pack-amanecer-veleta) and a [sunset](https://centrocomercio.sierranevada.es/atardecer-en-el-veleta) from the 3000 meters hights in Sierra Nevada
   * Batterfly farm in [Mariposario de Níjar](http://www.mariposariodenijar.com/actividades-mariposario-nijar-almeria.html)
   * Guiding tours to caves in Sorbas with [Cuevas de Sobras](https://www.cuevasdesorbas.com/)
+  * Mango and avocado tours in Malaga
   * Observe starts at [Planetario de Seron-Almeria](https://planetariodeseron.com/)
   * Search for hidden idyllic beaches (Cala, ex Cala del Plomo)
   * Western theme parks [Oasys - Tabernas Desert Theme Park](https://www.oasysparquetematico.com/en/) and [Fort Bravo](https://www.andalucia.org/en/tabernas-leisure-and-fun-leisure-parks-fort-bravo)
