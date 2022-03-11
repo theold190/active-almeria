@@ -30,6 +30,7 @@ Follow next link for suggestions on [special events](events.md). There are even 
 * Hiking
   * [El Caminito del Rey](https://en.wikipedia.org/wiki/Caminito_del_Rey) - The King's Little Path
   * [Various routes in Almeria](https://www.dipalme.org/Servicios/cmsdipro/index.nsf/vista.xsp?p=Turismo&ref=rutas#)
+  * [Ruta de las fundiciones mineras de villaricos](https://es.wikiloc.com/rutas-senderismo/ruta-de-las-fundiciones-mineras-de-villaricos-29485268)
 
 * Other
   * A [sunrise](https://centrocomercio.sierranevada.es/pack-amanecer-veleta) and a [sunset](https://centrocomercio.sierranevada.es/atardecer-en-el-veleta) from the 3000 meters hights in Sierra Nevada
