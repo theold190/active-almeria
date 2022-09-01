@@ -24,8 +24,7 @@ Follow next link for suggestions on [special events](events.md). There are even 
   * Windsurfing, catamaran, kitesurf, SUP, wing foil courses at [OverLimit](http://www.velaalmeria.es/)
 
 * Escape games
-  * Escape game in VR with [Enigma game](https://enigmagame.es/)
-  * Escape rooms with [Enigma game](https://enigmagame.es/), [Share lock](https://share-lock.es/), [Escape room tematicos Almeria](https://escaperoomtematicosalmeria.es/), [Dimension escape room](https://dimensionescaperoom.es/), [La Ultima Escapada](https://www.laultimaescapada.es/), [The Escape Roquetas](https://theescaperoquetas.com/) and many more
+  * Escape rooms with [Share lock](https://share-lock.es/), [Escape room tematicos Almeria](https://escaperoomtematicosalmeria.es/), [Dimension escape room](https://dimensionescaperoom.es/), [La Ultima Escapada](https://www.laultimaescapada.es/), [The Escape Roquetas](https://theescaperoquetas.com/) and many more
 
 * Hiking
   * [El Caminito del Rey](https://en.wikipedia.org/wiki/Caminito_del_Rey) - The King's Little Path
