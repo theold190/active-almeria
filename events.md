@@ -5,3 +5,4 @@ Here is a collection of different special events in [Almeria](https://en.wikiped
 
 * [Fiesta de Moros y Cristianos](https://almeriadecosta.com/mojacar-pueblo/que-hacer-en-mojacar/fiesta-de-moros-y-cristianos/) in Mojacar
 * [Noche de las perseidas](https://sierranevada.es/en/verano/perseidas/) near Granada
+* [San Silvestre](https://www.sansilvestredealmeria.com/) running event in the whole Almeria
