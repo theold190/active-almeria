@@ -1,7 +1,7 @@
 Almeria's activities [![Check links](https://github.com/theold190/active-almeria/actions/workflows/ci.yml/badge.svg)](https://github.com/theold190/active-almeria/actions/workflows/ci.yml)
 ====================
 
-Here is a collection of ideas for various type of activities in [Almeria](https://en.wikipedia.org/wiki/Almer%C3%ADa) (Spain). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
+Here is a collection of ideas for various type of activities in [Almeria municipality](https://en.wikipedia.org/wiki/Almer%C3%ADa) (Spain). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
 
 Follow next link for suggestions on [special events](events.md). There are even some [extras](extras.md) near Almeria.
 
@@ -34,6 +34,7 @@ Follow next link for suggestions on [special events](events.md). There are even 
 * Other
   * A [sunrise](https://centrocomercio.sierranevada.es/pack-amanecer-veleta) and a [sunset](https://centrocomercio.sierranevada.es/atardecer-en-el-veleta) from the 3000 meters hights in Sierra Nevada
   * Batterfly farm in [Mariposario de Níjar](http://www.mariposariodenijar.com/actividades-mariposario-nijar-almeria.html)
+  * Cinema in [Veracines](https://veracines.es/) in Vera and Garrucha
   * Guiding tours to caves in Sorbas with [Cuevas de Sobras](https://www.cuevasdesorbas.com/)
   * Mango and avocado tours in Malaga
   * Observe starts at [Planetario de Seron-Almeria](https://planetariodeseron.com/)
