@@ -41,4 +41,5 @@ Follow next link for suggestions on [special events](events.md). There are even 
   * Observe starts at [Planetario de Seron-Almeria](https://planetariodeseron.com/)
   * Pottery course with [Alfarería Juan Simón](https://alfareriajuansimon.es/) in Sorbas
   * Search for hidden idyllic beaches (Cala, ex Cala del Plomo)
+  * Various handmade courses with [Milbby Academy](https://www.milbby.com/pages/home-academy)
   * Western theme parks [Oasys - Tabernas Desert Theme Park](https://www.oasysparquetematico.com/en/) and [Fort Bravo](https://www.andalucia.org/en/tabernas-leisure-and-fun-leisure-parks-fort-bravo)
