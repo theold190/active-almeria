@@ -17,6 +17,7 @@ Follow next link for suggestions on [special events](events.md). There are even 
   * Parasailing with [Parasailing en Mojacar](https://www.facebook.com/Parasailingmojacar)
   * Racing in a byggy with [Andinas Racing](https://andinasracing.es/)
   * Racing circuit in [Almeria circuit](http://almeriacircuit.com/en/h-english/)
+  * Sport center with various activities in [Puerto Rey](https://centrodeportivopuertorey.com/)
   * Various boat related activities - renting a boat, diving, navigation school, diner at beautiful locations with [PartyLevante](https://www.partylevante.com/)
   * Various activities - boat tours, driving buggy, excursions in desert, water scooters with [NaveGata](https://www.navegata.com/)
   * Waterpark with slides [AquaVera](https://aquavera.com/)
@@ -24,7 +25,7 @@ Follow next link for suggestions on [special events](events.md). There are even 
   * Windsurfing, catamaran, kitesurf, SUP, wing foil courses at [OverLimit](http://www.velaalmeria.es/)
 
 * Escape games
-  * Escape rooms with [Share lock](https://share-lock.es/), [Escape room tematicos Almeria](https://escaperoomtematicosalmeria.es/), [Dimension escape room](https://dimensionescaperoom.es/), [La Ultima Escapada](https://www.laultimaescapada.es/), [The Escape Roquetas](https://theescaperoquetas.com/) and many more
+  * Escape rooms with [Share lock](https://share-lock.es/), [Escape room tematicos Almeria](https://escaperoomtematicosalmeria.es/), [Dimension escape room](https://dimensionescaperoom.es/), [La Ultima Escapada](https://www.laultimaescapada.es/) and many more
 
 * Hiking
   * [El Caminito del Rey](https://en.wikipedia.org/wiki/Caminito_del_Rey) - The King's Little Path
