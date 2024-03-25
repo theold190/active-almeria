@@ -7,3 +7,5 @@ Here is a collection of different special events in [Almeria](https://en.wikiped
 * New Years Day swim for Paws Patas in Mojacar
 * [Noche de las perseidas](https://sierranevada.es/en/verano/perseidas/) near Granada
 * [San Silvestre](https://www.sansilvestredealmeria.com/) running event in the whole Almeria
+* Carnaval parades in Almeria region in February
+* Beautifull almonds blossom in February - March
