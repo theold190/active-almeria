@@ -5,7 +5,7 @@ Here is a collection of different special events in [Almeria](https://en.wikiped
 
 * [Fiesta de Moros y Cristianos](https://almeriadecosta.com/mojacar-pueblo/que-hacer-en-mojacar/fiesta-de-moros-y-cristianos/) in Mojacar
 * New Years Day swim for Paws Patas in Mojacar
-* [Noche de las perseidas](https://sierranevada.es/en/verano/perseidas/) near Granada
+* [Noche de las perseidas](https://sierranevada.es/es/verano/eventos/astronomia/perseidas/) near Granada
 * [San Silvestre](https://www.sansilvestredealmeria.com/) running event in the whole Almeria
 * Carnaval parades in Almeria region in February
 * Beautifull almonds blossom in February - March
